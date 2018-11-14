@@ -1,0 +1,11 @@
+#log{
+	width: 600px;
+	height:400px;
+	margin: 0 auto;
+	border: 3px solid black;
+	border-radius: 5px;
+}
+#sendCtrls{
+	width: 235px;
+	margin: 0 auto;	
+}
